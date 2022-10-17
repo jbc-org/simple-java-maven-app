@@ -37,7 +37,7 @@ pipeline
         }
         stage('Deliver') { 
             steps {
-                sh 'docker image build -t jbc/jenkins-test .'
+                docker image build -t jbc/jenkins-test . 
             }
         }
     }
