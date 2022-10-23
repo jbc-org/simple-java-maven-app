@@ -16,6 +16,6 @@ the "Deliver" stage of your Pipeline.
 
 Build please; Build please;
 
-Try again; 
+Try again; Build me.
 
 Used to test jenkins builds.
